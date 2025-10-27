@@ -1,0 +1,6 @@
+transaction_id,amount,currency,status,merchant_id,created_utc
+txn_10001,49.99,USD,captured,mid_001,2025-10-01T12:00:00Z
+txn_10002,125.50,USD,settled,mid_002,2025-10-02T09:30:00Z
+txn_10003,9.99,USD,authorized,mid_003,2025-10-03T15:45:00Z
+txn_10004,200.00,USD,refunded,mid_004,2025-10-04T18:10:00Z
+txn_10005,75.25,USD,chargeback,mid_001,2025-10-05T20:05:00Z
