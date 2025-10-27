@@ -1,4 +1,4 @@
-# Fiserv Payments Assistant on Azure
+# Payments Assistant on Azure
 
 A secure, enterprise-ready scaffold for a payments assistant using Azure AI services:
 
@@ -188,3 +188,4 @@ Query Azure AI Search (in notebook `01_search_quickstart.ipynb`):
 ## License
 
 MIT
+
